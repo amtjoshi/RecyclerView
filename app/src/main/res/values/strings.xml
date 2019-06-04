@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="tittle">
+        <item>Picture1</item>
+        <item>Picture2</item>
+        <item>Picture3</item>
+        <item>picture4</item>
+        <item>picture5</item>
+        <item>picture6</item>
+        <item>picture7</item>
+        <item>picture8</item>
+        <item>picture9</item>
+        <item>picture10</item>
+        <item>picture11</item>
+        <item>picture12</item>
+        <item>picture13</item>
+        <item>picture14</item>
+        <item>picture15</item>
+    </string-array>
+</resources>
